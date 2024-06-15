@@ -1,1 +1,1 @@
-# al-veri-sepeti
+# alıs-veris-sepeti
